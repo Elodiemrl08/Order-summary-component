@@ -2,8 +2,6 @@ body {
   display: flex;
   margin: 0;
   padding: 0;
-  /* min-height: 100vh;
-  min-width: 1024px; */
   background: url(/images/pattern-background-desktop.svg) no-repeat;
   background-size: contain;
   background-color: rgb(225, 228, 255);
